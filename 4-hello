@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Create an empty file named hello
+touch hello
+chmod +x 4-hello
+./4-hello
