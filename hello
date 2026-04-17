@@ -1,1 +1,2 @@
-#!/bin/bash -rwxr-x-wx
+#!/usr/bin/env bash
+# Create an empty file named hello touch hello
