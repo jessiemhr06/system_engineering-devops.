@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # Add execute permission to the owner of the hello file
-chmod u+x hello
-chmod +x 5-execute
-./5-execute
+#!/bin/bash chmod u+x hello
+#!/bin/bash chmod +x 5-execute
+#!/bin/bash ./5-execute
