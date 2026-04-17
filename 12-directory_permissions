@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Create a new directory with permissions 751
+mkdir -m 751 my_dir
+chmod +x 12-directory_permissions
+./12-directory_permissions
