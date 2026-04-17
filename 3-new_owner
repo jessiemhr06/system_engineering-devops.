@@ -1,4 +1,2 @@
 #!/bin/bash
 #!/bin/bash chown betty hello
-#!/bin/bash chmod +x 3-new_owner
-#!/bin/bash sudo ./3-new_owner
