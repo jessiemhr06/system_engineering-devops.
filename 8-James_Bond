@@ -1,5 +1,2 @@
 #!/usr/bin/env bash
 # Set permissions: owner=none, group=none, other=all
-#!/bin/bash chmod 007 hello
-#!/bin/bash chmod +x 8-James_Bond
-#!/bin/bash ./8-James_Bond
