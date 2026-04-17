@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Set permissions to -rwxr-x-wx
-chmod 751 hello
+#!/bin/bash chmod 751 hello
 #!/usr/bin/env bash
 # Set permissions to -rwxr-x-wx
-chmod 753 hello
-chmod +x 9-John_Doe
-./9-John_Doe
+#!/bin/bash chmod 753 hello
+#!/bin/bash chmod +x 9-John_Doe
+#!/bin/bash ./9-John_Doe
