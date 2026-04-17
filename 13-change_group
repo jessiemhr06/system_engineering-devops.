@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Change the group owner of hello to school
+#!/bin/bashchgrp school hello
+#!/bin/bashchmod +x 13-change_group
+#!/bin/bashsudo ./13-change_group
