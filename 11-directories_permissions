@@ -1,5 +1,2 @@
 #!/usr/bin/env bash
 # Add execute permission to all subdirectories for owner, group, and others
-#!/bin/bash chmod a+X */
-#!/bin/bash chmod +x 11-directories_permissions
-#!/bin/bash./11-directories_permissions
